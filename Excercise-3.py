@@ -87,8 +87,9 @@ def process_student_marks(input_file, output_file):
 # -----------------------------
 # Run the program
 # -----------------------------
-input_file = r'C:\Users\Hi\Downloads\student_input.txt'     # Change file name if needed
+input_file = r'C:\Users\Hi\Downloads\student_input.txt'     
 output_file = r"C:\Users\Hi\Downloads\students_output.txt"
 
 process_student_marks(input_file, output_file)
+
 
